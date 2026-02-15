@@ -18,38 +18,7 @@ One player particularly caught our eye: Álvaro Morata who was caught offside ei
 
 <img src="img/results/plots/offside_count_by_player.png" width="100%">
 
-Moreover, most of the offsides by the Spanish team occured after a forward pass attempt (most frequently by Dani Carvajal) into the final third of the pitch. The animations below show four examples of Spanish offside positions captured from different qualifying matches.
-
-<table>
-<tr>
-<td style="width:50%; padding:4px;">
-<video width="100%" controls>
-  <source src="img/results/offsides/Spain - Scotland - 10-12-2023/2257919/Spain_Scotland_22570_to_22609_animation.mp4" type="video/mp4">
-</video>
-<em>Cross from Dani Carvajal to Álvaro Morata (Spain vs Scotland)</em>
-</td>
-<td style="width:50%; padding:4px;">
-<video width="100%" controls>
-  <source src="img/results/offsides/Spain - Georgia - 11-19-2023/1353053/Spain_Georgia_13521_to_13560_animation.mp4" type="video/mp4">
-</video>
-<em>Through ball from Dani Carvajal to Gavi (Spain vs Georgia)</em>
-</td>
-</tr>
-<tr>
-<td style="width:50%; padding:4px;">
-<video width="100%" controls>
-  <source src="img/results/offsides/Spain - Scotland - 10-12-2023/391259/Spain_Scotland_33433_to_33472_animation.mp4" type="video/mp4">
-</video>
-<em>Through ball from Pedro Porro to Álvaro Morata (Spain vs Scotland)</em>
-</td>
-<td style="width:50%; padding:4px;">
-<video width="100%" controls>
-  <source src="img/results/offsides/Spain - Scotland - 10-12-2023/1793219/Spain_Scotland_17923_to_17962_animation.mp4" type="video/mp4">
-</video>
-<em>Through ball from Dani Carvajal to Álvaro Morata (Spain vs Scotland)</em>
-</td>
-</tr>
-</table>
+Moreover, most of the offsides by the Spanish team occured after a forward pass attempt (most frequently by Dani Carvajal) into the final third of the pitch. 
 
 ### Passing Patterns and Accuracy
 
@@ -58,10 +27,10 @@ It is apparent that center backs tend to have the highest number of passes and t
 
 <table>
 <tr>
-<td style="width:50%; padding:4px;">
+<td width="50%">
 <img src="img/results/plots/pass_accuracy.png" width="100%">
 </td>
-<td style="width:50%; padding:4px;">
+<td width="50%">
 <img src="img/results/plots/pass_accuracy_pressure.png" width="100%">
 </td>
 </tr>
@@ -72,18 +41,18 @@ This "false nine" role is further emphasized in the passing sonars below with th
 
 <table>
 <tr>
-<td style="width:50%; padding:4px;">
+<td width="50%">
 <img src="img/results/plots/sonar_plots/Cyprus_Spain_1_3_pass_sonar.png" width="100%">
 </td>
-<td style="width:50%; padding:4px;">
+<td width="50%">
 <img src="img/results/plots/sonar_plots/Norway_Spain_0_1_pass_sonar.png" width="100%">
 </td>
 </tr>
 <tr>
-<td style="width:50%; padding:4px;">
+<td width="50%">
 <img src="img/results/plots/sonar_plots/Spain_Georgia_3_1_pass_sonar.png" width="100%">
 </td>
-<td style="width:50%; padding:4px;">
+<td width="50%">
 <img src="img/results/plots/sonar_plots/Spain_Scotland_2_0_pass_sonar.png" width="100%">
 </td>
 </tr>
@@ -100,10 +69,10 @@ The plots below show the throw-in sonars (left) and trajectories (right) for the
 
 <table>
 <tr>
-<td style="width:50%; padding:4px;">
+<td width="50%">
 <img src="img/results/plots/throw_in_sonar.png" width="100%">
 </td>
-<td style="width:50%; padding:4px;">
+<td width="50%">
 <img src="img/results/plots/throw_in_accuracy.png" width="100%">
 </td>
 </tr>
@@ -129,44 +98,44 @@ The plots below show the formation at two random time points during the first ha
 
 <table>
 <tr>
-<td colspan="2" style="text-align:center; padding:8px 4px 4px;">
+<td colspan="2" align="center">
 <strong>In Possession</strong>
 </td>
 </tr>
 <tr>
-<td style="width:50%; padding:4px;">
+<td width="50%">
 <img src="img/results/plots/convex_hull/1193645_Spain in Possession.jpg" width="100%">
 </td>
-<td style="width:50%; padding:4px;">
+<td width="50%">
 <img src="img/results/plots/convex_hull/1368349_Spain in Possession.jpg" width="100%">
 </td>
 </tr>
 <tr>
-<td style="width:50%; padding:4px;">
+<td width="50%">
 <img src="img/results/plots/convex_hull/1381427_Spain in Possession.jpg" width="100%">
 </td>
-<td style="width:50%; padding:4px;">
+<td width="50%">
 <img src="img/results/plots/convex_hull/1381503_Spain in Possession.jpg" width="100%">
 </td>
 </tr>
 <tr>
-<td colspan="2" style="text-align:center; padding:16px 4px 4px;">
+<td colspan="2" align="center">
 <strong>Out of Possession</strong>
 </td>
 </tr>
 <tr>
-<td style="width:50%; padding:4px;">
+<td width="50%">
 <img src="img/results/plots/convex_hull/1193645_Spain out of Possession.jpg" width="100%">
 </td>
-<td style="width:50%; padding:4px;">
+<td width="50%">
 <img src="img/results/plots/convex_hull/1368349_Spain out of Possession.jpg" width="100%">
 </td>
 </tr>
 <tr>
-<td style="width:50%; padding:4px;">
+<td width="50%">
 <img src="img/results/plots/convex_hull/1381427_Spain out of Possession.jpg" width="100%">
 </td>
-<td style="width:50%; padding:4px;">
+<td width="50%">
 <img src="img/results/plots/convex_hull/1381503_Spain out of Possession.jpg" width="100%">
 </td>
 </tr>
@@ -183,44 +152,44 @@ The heatmaps below display Spain's defensive line positioning both in possession
 
 <table>
 <tr>
-<td colspan="2" style="text-align:center; padding:8px 4px 4px;">
+<td colspan="2" align="center">
 <strong>In Possession</strong>
 </td>
 </tr>
 <tr>
-<td style="width:50%; padding:4px;">
+<td width="50%">
 <img src="img/results/plots/defenders/1193645_In Possession.jpg" width="100%">
 </td>
-<td style="width:50%; padding:4px;">
+<td width="50%">
 <img src="img/results/plots/defenders/1368349_In Possession.jpg" width="100%">
 </td>
 </tr>
 <tr>
-<td style="width:50%; padding:4px;">
+<td width="50%">
 <img src="img/results/plots/defenders/1381427_In Possession.jpg" width="100%">
 </td>
-<td style="width:50%; padding:4px;">
+<td width="50%">
 <img src="img/results/plots/defenders/1381503_In Possession.jpg" width="100%">
 </td>
 </tr>
 <tr>
-<td colspan="2" style="text-align:center; padding:16px 4px 4px;">
+<td colspan="2" align="center">
 <strong>Out of Possession</strong>
 </td>
 </tr>
 <tr>
-<td style="width:50%; padding:4px;">
+<td width="50%">
 <img src="img/results/plots/defenders/1193645_Out of Possession.jpg" width="100%">
 </td>
-<td style="width:50%; padding:4px;">
+<td width="50%">
 <img src="img/results/plots/defenders/1368349_Out of Possession.jpg" width="100%">
 </td>
 </tr>
 <tr>
-<td style="width:50%; padding:4px;">
+<td width="50%">
 <img src="img/results/plots/defenders/1381427_Out of Possession.jpg" width="100%">
 </td>
-<td style="width:50%; padding:4px;">
+<td width="50%">
 <img src="img/results/plots/defenders/1381503_Out of Possession.jpg" width="100%">
 </td>
 </tr>
